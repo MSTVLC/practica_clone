@@ -40,4 +40,4 @@ jobs:
           push: true
           tags: |
             br3baj3/practica_clone:latest 
-            ghcr.io/MSTVLC/practica_clone:latest
+            ghcr.io/mstvlc/practica_clone:latest
