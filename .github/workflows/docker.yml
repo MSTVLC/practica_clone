@@ -38,4 +38,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-
+          tags: |
+            ghcr.io/raul-profesor/practica7.1:latest 
