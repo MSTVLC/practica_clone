@@ -38,4 +38,6 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
+          tags: |
+            ghcr.io/mstvlc/practica_clone:latest 
 
