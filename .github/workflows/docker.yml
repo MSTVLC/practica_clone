@@ -39,4 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            ghcr.io/raul-profesor/practica7.1:latest 
+            ghcr.io/mstvlc/practica_clone:latest 
+
